@@ -20,7 +20,7 @@
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
-    },
+    }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
