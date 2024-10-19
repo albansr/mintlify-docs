@@ -52,7 +52,8 @@
         {
           "group": "Llamar a la oficina",
           "pages": [
-            "call-the-office/send-mail"
+            "process/call-the-office/now-its-not-here",
+            "process/call-the-office/send-mail"
           ]
         },
         {
