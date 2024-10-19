@@ -73,7 +73,14 @@
         {
           "group": "Llamar al Decisor",
           "pages": [
-            "Próximamente"
+            "Próximamente",
+            "process/call-the-dm/solved",
+            "process/call-the-dm/not-interested",
+            "process/call-the-dm/not-the-time",
+            "process/call-the-dm/not-the-dm",
+            "process/call-the-dm/send-email",
+            "process/call-the-dm/pitch",
+            "process/call-the-office/crm-information"
           ]
         }
       ]
