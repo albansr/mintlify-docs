@@ -2,38 +2,40 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Sales Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/logo-dark.png",
     "light": "/logo/logo-light.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
+    "primary": "#348b99",
+    "light": "#e9f2f3",
     "dark": "#0D9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#348b99",
+      "to": "#e9f2f3"
     }
+  },
+  "background": {
+    "style": "gradient"
   },
   "topbarLinks": [
     {
       "name": "CRM",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://www.hubspot.es"
     },
     {
-      "name": "Communidad",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Slack",
+      "url": "slack://open"
     }
   ],
   "tabs": [],
   "anchors": [],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Empezando",
       "pages": [
         "home",
-        "quickstart",
-        "development"
+        "manifest"
       ]
     },
     {
