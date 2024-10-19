@@ -18,12 +18,10 @@
   "topbarLinks": [
     {
       "name": "CRM",
-      "icon": "book-open-cover",
       "url": "mailto:hi@mintlify.com"
     },
     {
       "name": "Communidad",
-      "icon": "slack",
       "url": "mailto:hi@mintlify.com"
     }
   ],
