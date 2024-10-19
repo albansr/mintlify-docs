@@ -17,6 +17,11 @@
   },
   "topbarLinks": [
     {
+      "name": "CRM",
+      "icon": "book-open-cover",
+      "url": "mailto:hi@mintlify.com"
+    },
+    {
       "name": "Communidad",
       "icon": "slack",
       "url": "mailto:hi@mintlify.com"
@@ -29,13 +34,7 @@
       "url": "api-reference"
     }
   ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
+  "anchors": [],
   "navigation": [
     {
       "group": "Get Started",
