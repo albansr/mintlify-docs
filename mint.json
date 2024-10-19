@@ -17,9 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Communidad",
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
