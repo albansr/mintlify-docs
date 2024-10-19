@@ -24,6 +24,14 @@
       "url": "https://www.hubspot.es"
     },
     {
+      "name": "Calendario",
+      "url": "https://www.hubspot.es"
+    },
+    {
+      "name": "Email",
+      "url": "https://www.hubspot.es"
+    },
+    {
       "name": "Slack",
       "url": "slack://open"
     }
@@ -42,7 +50,8 @@
     {
       "group": "1. La preparación",
       "pages": [
-        "preparation/introduction"
+        "preparation/the-4-keys",
+        "preparation/target"
       ]
     },
     {
@@ -52,14 +61,19 @@
         {
           "group": "Llamar a la oficina",
           "pages": [
+            "process/call-the-office/goal",
+            "process/call-the-office/on-what-topic",
+            "process/call-the-office/other-questions",
             "process/call-the-office/now-its-not-here",
-            "process/call-the-office/send-mail"
+            "process/call-the-office/send-mail",
+            "process/call-the-office/pitch",
+            "process/call-the-office/crm-information"
           ]
         },
         {
           "group": "Llamar al Decisor",
           "pages": [
-            "Enviar un email"
+            "Próximamente"
           ]
         }
       ]
@@ -67,7 +81,7 @@
     {
       "group": "3. Despues de la llamada",
       "pages": [
-        "introduccion"
+        "Próximamente"
       ]
     }
   ],
