@@ -21,6 +21,8 @@
       "url": "mailto:hi@mintlify.com"
     }
   ],
+  "topbarCtaButton": {
+  },
   "tabs": [
     {
       "name": "API Reference",
