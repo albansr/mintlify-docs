@@ -73,7 +73,7 @@
         {
           "group": "Llamar al Decisor",
           "pages": [
-            "Próximamente",
+            "process/call-the-dm/intro",
             "process/call-the-dm/solved",
             "process/call-the-dm/not-interested",
             "process/call-the-dm/not-the-time",
