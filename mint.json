@@ -43,8 +43,7 @@
       "group": "Empezando",
       "pages": [
         "home",
-        "manifest",
-        "Mecanica de trabajo"
+        "manifest"
       ]
     },
     {
@@ -74,13 +73,24 @@
           "group": "Llamar al Decisor",
           "pages": [
             "process/call-the-dm/intro",
-            "process/call-the-dm/solved",
-            "process/call-the-dm/not-interested",
-            "process/call-the-dm/not-the-time",
-            "process/call-the-dm/not-the-dm",
-            "process/call-the-dm/send-email",
-            "process/call-the-dm/pitch",
-            "process/call-the-office/crm-information"
+            {
+              "group": "Objeciones",
+              "pages": [
+                "process/call-the-dm/objections/call-me-in-a-few-months",
+                "process/call-the-dm/objections/not-the-right-time",
+                "process/call-the-dm/objections/don’t-need-this",
+                "process/call-the-dm/objections/not-interested",
+                "process/call-the-dm/objections/not-the-right-person",
+                "process/call-the-dm/objections/no-time-right-now",
+                "process/call-the-dm/objections/no-budget",
+                "process/call-the-dm/objections/our-business-is-different",
+                "process/call-the-dm/objections/we-use-bi",
+                "process/call-the-dm/objections/already-do-it-with-crm",
+                "process/call-the-dm/objections/already-do-it-with-erp",
+                "process/call-the-dm/objections/already-covered"
+              ]
+            },
+            "process/call-the-dm/pitch"
           ]
         }
       ]
